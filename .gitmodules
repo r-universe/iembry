@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "vaersNDvax"]
+	path = vaersNDvax
+	url = https://github.com/cran/vaersNDvax
+	shallow = true
+	registered = true
+[submodule "vaersvax"]
+	path = vaersvax
+	url = https://github.com/cran/vaersvax
+	shallow = true
+	registered = true
