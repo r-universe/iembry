@@ -3,6 +3,46 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ie2misc"]
+	path = ie2misc
+	url = https://gitlab.com/iembry/ie2misc
+	shallow = true
+	registered = true
+[submodule "ie2miscdata"]
+	path = ie2miscdata
+	url = https://gitlab.com/iembry/ie2miscdata
+	shallow = true
+	registered = true
+[submodule "iemisc"]
+	path = iemisc
+	url = https://gitlab.com/iembry/iemisc
+	shallow = true
+	registered = true
+[submodule "iemiscdata"]
+	path = iemiscdata
+	url = https://gitlab.com/iembry/iemiscdata
+	shallow = true
+	registered = true
+[submodule "iemisctext"]
+	path = iemisctext
+	url = https://gitlab.com/iembry/iemisctext
+	shallow = true
+	registered = true
+[submodule "install.load"]
+	path = install.load
+	url = https://gitlab.com/iembry/install.load
+	shallow = true
+	registered = true
+[submodule "jab.adverse.reactions"]
+	path = jab.adverse.reactions
+	url = https://gitlab.com/iembry/jab.adverse.reactions
+	shallow = true
+	registered = true
+[submodule "USA.state.boundaries"]
+	path = USA.state.boundaries
+	url = https://gitlab.com/iembry/usa.state.boundaries
+	shallow = true
+	registered = true
 [submodule "vaersNDvax"]
 	path = vaersNDvax
 	url = https://github.com/cran/vaersNDvax
