@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "USA.state.boundaries"]
+	path = USA.state.boundaries
+	url = https://gitlab.com/iembry/usa.state.boundaries
 [submodule "ie2misc"]
 	path = ie2misc
 	url = https://gitlab.com/iembry/ie2misc
@@ -23,9 +26,6 @@
 [submodule "jab.adverse.reactions"]
 	path = jab.adverse.reactions
 	url = https://gitlab.com/iembry/jab.adverse.reactions
-[submodule "USA.state.boundaries"]
-	path = USA.state.boundaries
-	url = https://gitlab.com/iembry/usa.state.boundaries
 [submodule "vaersNDvax"]
 	path = vaersNDvax
 	url = https://github.com/cran/vaersNDvax
