@@ -5,6 +5,9 @@
 [submodule "USA.state.boundaries"]
 	path = USA.state.boundaries
 	url = https://gitlab.com/iembry/usa.state.boundaries
+[submodule "chem.databases"]
+	path = chem.databases
+	url = https://github.com/cran/chem.databases
 [submodule "ie2misc"]
 	path = ie2misc
 	url = https://gitlab.com/iembry/ie2misc
