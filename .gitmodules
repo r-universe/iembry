@@ -14,9 +14,6 @@
 [submodule "ie2miscdata"]
 	path = ie2miscdata
 	url = https://gitlab.com/iembry/ie2miscdata
-[submodule "iemisc"]
-	path = iemisc
-	url = https://gitlab.com/iembry/iemisc
 [submodule "iemiscdata"]
 	path = iemiscdata
 	url = https://gitlab.com/iembry/iemiscdata
