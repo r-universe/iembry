@@ -1,0 +1,10 @@
+{
+  "id": 166654907,
+  "created_at": "2026-09-30T20:42:53.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["iembry.r-universe.dev"]
+}
