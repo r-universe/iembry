@@ -5,6 +5,9 @@
 [submodule "FEWSR"]
 	path = FEWSR
 	url = https://gitlab.com/iembry/FEWSR
+[submodule "chem.databases"]
+	path = chem.databases
+	url = https://gitlab.com/iembry/chem.databases
 [submodule "curvenumber"]
 	path = curvenumber
 	url = https://gitlab.com/iembry/curvenumber
@@ -35,6 +38,12 @@
 [submodule "install.load"]
 	path = install.load
 	url = https://gitlab.com/iembry/install.load
+[submodule "jab.adverse.reactions"]
+	path = jab.adverse.reactions
+	url = https://gitlab.com/iembry/jab.adverse.reactions
+[submodule "jab.adverse.reactions.full"]
+	path = jab.adverse.reactions.full
+	url = https://gitlab.com/iembry/jab.adverse.reactions.full
 [submodule "usa.state.boundaries"]
 	path = usa.state.boundaries
 	url = https://gitlab.com/iembry/usa.state.boundaries
