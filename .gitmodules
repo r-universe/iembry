@@ -1,31 +1,49 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/iembry/iembry.r-universe.dev
 	branch = HEAD
-[submodule "USA.state.boundaries"]
-	path = USA.state.boundaries
-	url = https://gitlab.com/iembry/usa.state.boundaries
-[submodule "chem.databases"]
-	path = chem.databases
-	url = https://github.com/cran/chem.databases
+[submodule "FEWSR"]
+	path = FEWSR
+	url = https://gitlab.com/iembry/FEWSR
+[submodule "curvenumber"]
+	path = curvenumber
+	url = https://gitlab.com/iembry/curvenumber
+[submodule "drat"]
+	path = drat
+	url = https://gitlab.com/iembry/drat
+[submodule "globallivingconditions"]
+	path = globallivingconditions
+	url = https://gitlab.com/iembry/globallivingconditions
 [submodule "ie2misc"]
 	path = ie2misc
 	url = https://gitlab.com/iembry/ie2misc
 [submodule "ie2miscdata"]
 	path = ie2miscdata
 	url = https://gitlab.com/iembry/ie2miscdata
+[submodule "iemisc"]
+	path = iemisc
+	url = https://gitlab.com/iembry/iemisc
+[submodule "iemiscdata"]
+	path = iemiscdata
+	url = https://gitlab.com/iembry/iemiscdata
+[submodule "iemiscquotes"]
+	path = iemiscquotes
+	url = https://gitlab.com/iembry/iemiscquotes
 [submodule "iemisctext"]
 	path = iemisctext
 	url = https://gitlab.com/iembry/iemisctext
 [submodule "install.load"]
 	path = install.load
 	url = https://gitlab.com/iembry/install.load
-[submodule "jab.adverse.reactions"]
-	path = jab.adverse.reactions
-	url = https://gitlab.com/iembry/jab.adverse.reactions
-[submodule "vaersNDvax"]
-	path = vaersNDvax
-	url = https://github.com/cran/vaersNDvax
-[submodule "vaersvax"]
-	path = vaersvax
-	url = https://github.com/cran/vaersvax
+[submodule "usa.state.boundaries"]
+	path = usa.state.boundaries
+	url = https://gitlab.com/iembry/usa.state.boundaries
+[submodule "usa.state.boundaries.data"]
+	path = usa.state.boundaries.data
+	url = https://gitlab.com/iembry/usa.state.boundaries.data
+[submodule "vaers"]
+	path = vaers
+	url = https://gitlab.com/iembry/vaers
+[submodule "vaersND"]
+	path = vaersND
+	url = https://gitlab.com/iembry/vaersND
